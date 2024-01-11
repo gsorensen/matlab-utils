@@ -1,6 +1,6 @@
-%{ Matlab vector representing the colour palette described in this paper by Wong: https://www.nature.com/articles/nmeth.1618
-Requires the following add-on https://se.mathworks.com/matlabcentral/fileexchange/46289-rgb2hex-and-hex2rgb?s_tid=ta_fx_results 
-%} Order can be changed based on personal preference, name of colours in comments based off of the following article: https://cambiocteach.com/accessibility/colourchoice/
+% Matlab vector representing the colour palette described in this paper by Wong: https://www.nature.com/articles/nmeth.1618
+% Requires the following add-on https://se.mathworks.com/matlabcentral/fileexchange/46289-rgb2hex-and-hex2rgb?s_tid=ta_fx_results 
+% Order can be changed based on personal preference, name of colours in comments based off of the following article: https://cambiocteach.com/accessibility/colourchoice/
 
 wong_colour_palette = [
     hex2rgb("0072b2"); % blue
